@@ -1,0 +1,15 @@
+.filterLabel {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(13, 85, 167);
+  display: inline-flex;
+  flex-direction: column;
+  padding-left: 20px;
+  margin-bottom: 15px;
+}
+.filterInput {
+  width: 180px;
+  height: 25px;
+  margin-top: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(13, 85, 167);
+}

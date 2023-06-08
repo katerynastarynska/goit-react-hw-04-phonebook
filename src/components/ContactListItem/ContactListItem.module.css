@@ -1,0 +1,15 @@
+.contactListText {
+    margin-right: 10px;
+}
+.contactListBtn {
+    width: 90px;
+    height: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(13, 85, 167);
+    border-radius: 5px;
+    background-color: rgb(151 222 255 / 14%);
+  }
+  .contactListItemWrap {
+    display: flex;
+    align-items: center;
+  }

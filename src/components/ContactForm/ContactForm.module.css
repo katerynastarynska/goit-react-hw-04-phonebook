@@ -1,0 +1,38 @@
+.contactForm {
+  display: flex;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  border: 1px solid grey;
+  width: 350px;
+  flex-direction: column;
+}
+
+.labelForm {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(13, 85, 167);
+  padding-right: 10px;
+  padding-bottom: 5px;
+}
+
+.inpurForm {
+  width: 180px;
+  height: 25px;
+  margin-bottom: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(13, 85, 167);
+}
+
+.formBtn {
+  width: 120px;
+  height: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(13, 85, 167);
+  border-radius: 5px;
+  background-color: rgb(151 222 255 / 14%);
+}
+
+.formBtn:hover {
+  color: #fff;
+  background-color: rgb(13, 85, 167);
+}
