@@ -32,7 +32,6 @@ const ContactForm = ({ onSubmit }) => {
     const form = e.currentTarget;
     const name = form.elements.name.value;
     const number = form.elements.number.value;
-    console.log(form);
     onSubmit({ name, number, id });
     resetForm();
   };
